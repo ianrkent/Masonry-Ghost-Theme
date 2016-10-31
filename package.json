@@ -1,17 +1,17 @@
 {
-  "name": "masonry",
-  "version": "0.2.0",
-  "description": "Theme for ghost",
+  "name": "ians_custom_masonry",
+  "version": "0.2.0.1",
+  "description": "Ians custom theme for ghost, based off a fork of the Masonry theme",
   "repository": {
     "type": "git",
-    "url": "git@github.com:chris-brown/Masonry-Ghost-Theme.git"
+    "url": "git@github.com:ianrkent/Masonry-Ghost-Theme"
   },
   "author": "Zirafon.org",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chris-brown/Masonry-Ghost-Theme/issues"
+    "url": "https://github.com/ianrkent/Masonry-Ghost-Theme"
   },
-  "homepage": "https://github.com/chris-brown/Masonry-Ghost-Theme",
+  "homepage": "https://github.com/ianrkent/Masonry-Ghost-Theme",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-concat-css": "^2.2.0",
